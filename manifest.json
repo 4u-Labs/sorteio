@@ -1,0 +1,23 @@
+{
+  "name": "Sorteador Pro Max — 4U.IA",
+  "short_name": "Sorteador",
+  "description": "Sorteador Online Profissional: Roleta Interativa, Números, Nomes, Rifas, Amigo Secreto, Dados e Certificado de Auditoria",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#0b0f19",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
